@@ -17,6 +17,7 @@ class Divisao {
 		restDivi = (n1 % n2);
 		raizQ = Math.sqrt(n1);
 		
-		System.out.printf("O resutado da divisao eh: %.2f \nE o resto da divisao eh de: %.2f \nE raiz quadrada do primeiro valor é de: %.2f", divi, restDivi, raizQ);
+		
+		System.out.printf("O resutado da divisao eh: %.2f \nE o resto da divisao eh de: %.2f \nE raiz quadrada do primeiro valor eh de: %.2f", divi, restDivi, raizQ);
 	}
 }
